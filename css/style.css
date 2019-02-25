@@ -468,4 +468,26 @@ ul#navMenu.mobileShow {
 
 .scrollNav .mobileShow li.nav-item {
 	width: 100%;
+
+
+}
+
+
+
+.getStarted {
+    background-color: #2E6FA5;
+    color: white;
+    padding: 1em 2em 1em 2em;
+}
+
+
+.card {
+	background-color: #fff;
+    color: #494949;
+    padding: 40px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+	margin-bottom: 2em;
+	width: 80%;
+	margin: 0 auto;
 }
